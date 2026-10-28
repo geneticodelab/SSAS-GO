@@ -23,7 +23,7 @@ conda activate SSAS
 
 ## Data Preparation
 
-Data set can be downloaded from [HEAL](https://github.com/ZhonghuiGu/HEAL)
+Data set can be downloaded from [HEAL](https://github.com/ZhonghuiGu/HEAL), the original data can be downloaded from [data](https://drive.google.com/drive/folders/1ZdVUjpPtxU6YaDM1aBMIiMk1Vqadux2h?usp=drive_link)
 
 Before training, ensure your data is placed in the directories specified in `config.py`. The required files include:
 
